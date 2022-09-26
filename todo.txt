@@ -1,0 +1,6 @@
+go through every mlb game of a season given a starting link
+figure out what categories to look for, write them down
+strategize how to build up sql tables
+figure out read/write stuff
+build up sql tables
+figure out how to add to writing and then build up sql tables on updated info
